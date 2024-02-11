@@ -1,0 +1,33 @@
+C:\Users\Patricio\Desktop\ITI_Tecnológico Internacional Universitario\2. Segundo Semestre\MODULO 2\Proyectos POO\_Para pruebas\PIC-master\Vectores.Desktop\bin\Debug\net8.0-windows\Vectores.Desktop.exe
+C:\Users\Patricio\Desktop\ITI_Tecnológico Internacional Universitario\2. Segundo Semestre\MODULO 2\Proyectos POO\_Para pruebas\PIC-master\Vectores.Desktop\bin\Debug\net8.0-windows\Vectores.Desktop.deps.json
+C:\Users\Patricio\Desktop\ITI_Tecnológico Internacional Universitario\2. Segundo Semestre\MODULO 2\Proyectos POO\_Para pruebas\PIC-master\Vectores.Desktop\bin\Debug\net8.0-windows\Vectores.Desktop.runtimeconfig.json
+C:\Users\Patricio\Desktop\ITI_Tecnológico Internacional Universitario\2. Segundo Semestre\MODULO 2\Proyectos POO\_Para pruebas\PIC-master\Vectores.Desktop\bin\Debug\net8.0-windows\Vectores.Desktop.dll
+C:\Users\Patricio\Desktop\ITI_Tecnológico Internacional Universitario\2. Segundo Semestre\MODULO 2\Proyectos POO\_Para pruebas\PIC-master\Vectores.Desktop\bin\Debug\net8.0-windows\Vectores.Desktop.pdb
+C:\Users\Patricio\Desktop\ITI_Tecnológico Internacional Universitario\2. Segundo Semestre\MODULO 2\Proyectos POO\_Para pruebas\PIC-master\Vectores.Desktop\obj\Debug\net8.0-windows\Vectores.Desktop.Form1.resources
+C:\Users\Patricio\Desktop\ITI_Tecnológico Internacional Universitario\2. Segundo Semestre\MODULO 2\Proyectos POO\_Para pruebas\PIC-master\Vectores.Desktop\obj\Debug\net8.0-windows\Vectores.Desktop.csproj.GenerateResource.cache
+C:\Users\Patricio\Desktop\ITI_Tecnológico Internacional Universitario\2. Segundo Semestre\MODULO 2\Proyectos POO\_Para pruebas\PIC-master\Vectores.Desktop\obj\Debug\net8.0-windows\Vectores.Desktop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Patricio\Desktop\ITI_Tecnológico Internacional Universitario\2. Segundo Semestre\MODULO 2\Proyectos POO\_Para pruebas\PIC-master\Vectores.Desktop\obj\Debug\net8.0-windows\Vectores.Desktop.AssemblyInfoInputs.cache
+C:\Users\Patricio\Desktop\ITI_Tecnológico Internacional Universitario\2. Segundo Semestre\MODULO 2\Proyectos POO\_Para pruebas\PIC-master\Vectores.Desktop\obj\Debug\net8.0-windows\Vectores.Desktop.AssemblyInfo.cs
+C:\Users\Patricio\Desktop\ITI_Tecnológico Internacional Universitario\2. Segundo Semestre\MODULO 2\Proyectos POO\_Para pruebas\PIC-master\Vectores.Desktop\obj\Debug\net8.0-windows\Vectores.Desktop.csproj.CoreCompileInputs.cache
+C:\Users\Patricio\Desktop\ITI_Tecnológico Internacional Universitario\2. Segundo Semestre\MODULO 2\Proyectos POO\_Para pruebas\PIC-master\Vectores.Desktop\obj\Debug\net8.0-windows\Vectores.Desktop.sourcelink.json
+C:\Users\Patricio\Desktop\ITI_Tecnológico Internacional Universitario\2. Segundo Semestre\MODULO 2\Proyectos POO\_Para pruebas\PIC-master\Vectores.Desktop\obj\Debug\net8.0-windows\Vectores.Desktop.dll
+C:\Users\Patricio\Desktop\ITI_Tecnológico Internacional Universitario\2. Segundo Semestre\MODULO 2\Proyectos POO\_Para pruebas\PIC-master\Vectores.Desktop\obj\Debug\net8.0-windows\refint\Vectores.Desktop.dll
+C:\Users\Patricio\Desktop\ITI_Tecnológico Internacional Universitario\2. Segundo Semestre\MODULO 2\Proyectos POO\_Para pruebas\PIC-master\Vectores.Desktop\obj\Debug\net8.0-windows\Vectores.Desktop.pdb
+C:\Users\Patricio\Desktop\ITI_Tecnológico Internacional Universitario\2. Segundo Semestre\MODULO 2\Proyectos POO\_Para pruebas\PIC-master\Vectores.Desktop\obj\Debug\net8.0-windows\Vectores.Desktop.genruntimeconfig.cache
+C:\Users\Patricio\Desktop\ITI_Tecnológico Internacional Universitario\2. Segundo Semestre\MODULO 2\Proyectos POO\_Para pruebas\PIC-master\Vectores.Desktop\obj\Debug\net8.0-windows\ref\Vectores.Desktop.dll
+C:\Users\Patricio\Downloads\GITHUB\PIC_Forms-main\PIC-master\Vectores.Desktop\bin\Debug\net8.0-windows\Vectores.Desktop.exe
+C:\Users\Patricio\Downloads\GITHUB\PIC_Forms-main\PIC-master\Vectores.Desktop\bin\Debug\net8.0-windows\Vectores.Desktop.deps.json
+C:\Users\Patricio\Downloads\GITHUB\PIC_Forms-main\PIC-master\Vectores.Desktop\bin\Debug\net8.0-windows\Vectores.Desktop.runtimeconfig.json
+C:\Users\Patricio\Downloads\GITHUB\PIC_Forms-main\PIC-master\Vectores.Desktop\bin\Debug\net8.0-windows\Vectores.Desktop.dll
+C:\Users\Patricio\Downloads\GITHUB\PIC_Forms-main\PIC-master\Vectores.Desktop\bin\Debug\net8.0-windows\Vectores.Desktop.pdb
+C:\Users\Patricio\Downloads\GITHUB\PIC_Forms-main\PIC-master\Vectores.Desktop\obj\Debug\net8.0-windows\Vectores.Desktop.Form1.resources
+C:\Users\Patricio\Downloads\GITHUB\PIC_Forms-main\PIC-master\Vectores.Desktop\obj\Debug\net8.0-windows\Vectores.Desktop.csproj.GenerateResource.cache
+C:\Users\Patricio\Downloads\GITHUB\PIC_Forms-main\PIC-master\Vectores.Desktop\obj\Debug\net8.0-windows\Vectores.Desktop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Patricio\Downloads\GITHUB\PIC_Forms-main\PIC-master\Vectores.Desktop\obj\Debug\net8.0-windows\Vectores.Desktop.AssemblyInfoInputs.cache
+C:\Users\Patricio\Downloads\GITHUB\PIC_Forms-main\PIC-master\Vectores.Desktop\obj\Debug\net8.0-windows\Vectores.Desktop.AssemblyInfo.cs
+C:\Users\Patricio\Downloads\GITHUB\PIC_Forms-main\PIC-master\Vectores.Desktop\obj\Debug\net8.0-windows\Vectores.Desktop.csproj.CoreCompileInputs.cache
+C:\Users\Patricio\Downloads\GITHUB\PIC_Forms-main\PIC-master\Vectores.Desktop\obj\Debug\net8.0-windows\Vectores.Desktop.dll
+C:\Users\Patricio\Downloads\GITHUB\PIC_Forms-main\PIC-master\Vectores.Desktop\obj\Debug\net8.0-windows\refint\Vectores.Desktop.dll
+C:\Users\Patricio\Downloads\GITHUB\PIC_Forms-main\PIC-master\Vectores.Desktop\obj\Debug\net8.0-windows\Vectores.Desktop.pdb
+C:\Users\Patricio\Downloads\GITHUB\PIC_Forms-main\PIC-master\Vectores.Desktop\obj\Debug\net8.0-windows\Vectores.Desktop.genruntimeconfig.cache
+C:\Users\Patricio\Downloads\GITHUB\PIC_Forms-main\PIC-master\Vectores.Desktop\obj\Debug\net8.0-windows\ref\Vectores.Desktop.dll

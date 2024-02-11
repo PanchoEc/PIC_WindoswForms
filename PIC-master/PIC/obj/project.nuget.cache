@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "vVSUFk9g5lKdj3k1EZmbyExTsFrylFyKQeZHBhF3MhgYDEu+zLSkLJjMQ50tpu7nh/Z8I69DAln1Q3vN1Agrvw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Patricio\\Desktop\\ITI_Tecnológico Internacional Universitario\\2. Segundo Semestre\\MODULO 2\\Proyectos POO\\_Para pruebas\\PIC-master\\PIC\\PIC.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Patricio\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.26\\microsoft.windowsdesktop.app.ref.6.0.26.nupkg.sha512",
+    "C:\\Users\\Patricio\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.26\\microsoft.netcore.app.ref.6.0.26.nupkg.sha512",
+    "C:\\Users\\Patricio\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.26\\microsoft.aspnetcore.app.ref.6.0.26.nupkg.sha512",
+    "C:\\Users\\Patricio\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.26\\microsoft.netcore.app.host.win-x64.6.0.26.nupkg.sha512"
+  ],
+  "logs": []
+}
