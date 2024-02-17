@@ -12,13 +12,6 @@ namespace Vectores.Desktop
         private double _y;
         private double _z;
 
-        /*public Vector(double x, double y, double z)
-        {
-            _x = x;
-            _y = y;
-            _z = z;
-        }*/
-
         public double X { get; set; }
         public double Y { get; set; }
         public double Z { get; set; }

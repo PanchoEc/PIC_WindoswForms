@@ -77,16 +77,16 @@ namespace Vectores.Desktop
             vectorB.Y = Convert.ToDouble(txtY2.Text);
             vectorB.Z = Convert.ToDouble(txtZ2.Text);
 
-            /*MessageBox.Show("Los valores de los vectores A y B están correctos");*/
+            MessageBox.Show("Los datos de los vectores A y B están correctos");
 
-            txtAdd.Text = "(" + Convert.ToString(vectorA.X + vectorB.X) + ", " + Convert.ToString(vectorA.Y + vectorB.Y)
-             + ", " + Convert.ToString(vectorA.Z + vectorB.Z) + ")";
+            txtAdd.Text = "(" + Convert.ToString(Math.Round((vectorA.X + vectorB.X), 3)) + ", " + Convert.ToString(Math.Round((vectorA.Y + vectorB.Y), 3))
+             + ", " + Convert.ToString(Math.Round((vectorA.Z + vectorB.Z), 3)) + ")";
 
-            txtSubstract.Text = "(" + Convert.ToString(vectorA.X - vectorB.X) + ", " + Convert.ToString(vectorA.Y - vectorB.Y)
-           + ", " + Convert.ToString(vectorA.Z - vectorB.Z) + ")";
+            txtSubstract.Text = "(" + Convert.ToString(Math.Round((vectorA.X - vectorB.X), 3)) + ", " + Convert.ToString(Math.Round((vectorA.Y - vectorB.Y), 3))
+             + ", " + Convert.ToString(Math.Round((vectorA.Z - vectorB.Z), 3)) + ")";
 
-            txtPointProduct.Text = "(" + Convert.ToString(vectorA.X * vectorB.X) + ", " + Convert.ToString(vectorA.Y * vectorB.Y)
-           + ", " + Convert.ToString(vectorA.Z * vectorB.Z) + ")";
+            txtPointProduct.Text = "(" + Convert.ToString(Math.Round((vectorA.X * vectorB.X), 3)) + ", " + Convert.ToString(Math.Round((vectorA.Y * vectorB.Y), 3))
+             + ", " + Convert.ToString(Math.Round((vectorA.Z * vectorB.Z), 3)) + ")";
         }
 
         private void btnClear_Click(object sender, EventArgs e)
@@ -97,11 +97,24 @@ namespace Vectores.Desktop
             txtX2.Clear();
             txtY2.Clear();
             txtZ2.Clear();
+            txtAdd.Clear();
+            txtSubstract.Clear();
+            txtPointProduct.Clear();
         }
 
-        private void txtX2_TextChanged(object sender, EventArgs e)
+        private void pictureBoxAdd_Click(object sender, EventArgs e)
         {
+            MessageBox.Show("A + B = (xa + xb, ya + yb, za + zb)");
+        }
 
+        private void pictureBoxSubstract_Click(object sender, EventArgs e)
+        {
+            MessageBox.Show("A - B = (xa - xb, ya - yb, za - zb)");
+        }
+
+        private void pictureBoxPointProduct_Click(object sender, EventArgs e)
+        {
+            MessageBox.Show("A * B = (xa * xb, ya * yb, za * zb)");
         }
     }
 }

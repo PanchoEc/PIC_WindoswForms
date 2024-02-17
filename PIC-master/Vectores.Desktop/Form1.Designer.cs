@@ -29,6 +29,7 @@
         private void InitializeComponent()
         {
             components = new System.ComponentModel.Container();
+            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(Form1));
             label1 = new Label();
             label2 = new Label();
             label3 = new Label();
@@ -54,7 +55,13 @@
             txtPointProduct = new TextBox();
             label17 = new Label();
             btnClear = new Button();
+            pictureBoxAdd = new PictureBox();
+            pictureBoxSubstract = new PictureBox();
+            pictureBoxPointProduct = new PictureBox();
             ((System.ComponentModel.ISupportInitialize)error1).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)pictureBoxAdd).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)pictureBoxSubstract).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)pictureBoxPointProduct).BeginInit();
             SuspendLayout();
             // 
             // label1
@@ -70,9 +77,10 @@
             // label2
             // 
             label2.AutoSize = true;
-            label2.Location = new Point(237, 88);
+            label2.Font = new Font("Palatino Linotype", 12F, FontStyle.Bold | FontStyle.Italic, GraphicsUnit.Point, 0);
+            label2.Location = new Point(260, 82);
             label2.Name = "label2";
-            label2.Size = new Size(102, 15);
+            label2.Size = new Size(137, 21);
             label2.TabIndex = 1;
             label2.Text = "Vector A = (x, y, z)";
             // 
@@ -133,9 +141,10 @@
             // label9
             // 
             label9.AutoSize = true;
-            label9.Location = new Point(578, 88);
+            label9.Font = new Font("Palatino Linotype", 12F, FontStyle.Bold | FontStyle.Italic, GraphicsUnit.Point, 0);
+            label9.Location = new Point(588, 82);
             label9.Name = "label9";
-            label9.Size = new Size(101, 15);
+            label9.Size = new Size(137, 21);
             label9.TabIndex = 5;
             label9.Text = "Vector B = (x, y, z)";
             // 
@@ -195,11 +204,11 @@
             // 
             btnSaveReg.BackColor = SystemColors.ActiveCaption;
             btnSaveReg.Font = new Font("Times New Roman", 12F, FontStyle.Bold, GraphicsUnit.Point, 0);
-            btnSaveReg.Location = new Point(372, 216);
+            btnSaveReg.Location = new Point(280, 227);
             btnSaveReg.Name = "btnSaveReg";
-            btnSaveReg.Size = new Size(311, 28);
+            btnSaveReg.Size = new Size(458, 28);
             btnSaveReg.TabIndex = 18;
-            btnSaveReg.Text = "Resultados de las operaciones con vectores";
+            btnSaveReg.Text = "Validación de datos y resultados de las operaciones con vectores";
             btnSaveReg.UseVisualStyleBackColor = false;
             btnSaveReg.Click += btnSaveReg_Click;
             // 
@@ -210,7 +219,7 @@
             // label15
             // 
             label15.AutoSize = true;
-            label15.Location = new Point(376, 298);
+            label15.Location = new Point(281, 317);
             label15.Name = "label15";
             label15.Size = new Size(116, 15);
             label15.TabIndex = 26;
@@ -219,7 +228,7 @@
             // label16
             // 
             label16.AutoSize = true;
-            label16.Location = new Point(376, 333);
+            label16.Location = new Point(281, 363);
             label16.Name = "label16";
             label16.Size = new Size(172, 15);
             label16.TabIndex = 27;
@@ -227,29 +236,29 @@
             // 
             // txtAdd
             // 
-            txtAdd.Location = new Point(563, 261);
+            txtAdd.Location = new Point(461, 270);
             txtAdd.Name = "txtAdd";
-            txtAdd.Size = new Size(116, 23);
+            txtAdd.Size = new Size(277, 23);
             txtAdd.TabIndex = 28;
             // 
             // txtSubstract
             // 
-            txtSubstract.Location = new Point(563, 295);
+            txtSubstract.Location = new Point(461, 314);
             txtSubstract.Name = "txtSubstract";
-            txtSubstract.Size = new Size(116, 23);
+            txtSubstract.Size = new Size(277, 23);
             txtSubstract.TabIndex = 29;
             // 
             // txtPointProduct
             // 
-            txtPointProduct.Location = new Point(563, 330);
+            txtPointProduct.Location = new Point(461, 360);
             txtPointProduct.Name = "txtPointProduct";
-            txtPointProduct.Size = new Size(116, 23);
+            txtPointProduct.Size = new Size(277, 23);
             txtPointProduct.TabIndex = 30;
             // 
             // label17
             // 
             label17.AutoSize = true;
-            label17.Location = new Point(376, 264);
+            label17.Location = new Point(281, 273);
             label17.Name = "label17";
             label17.Size = new Size(118, 15);
             label17.TabIndex = 31;
@@ -265,11 +274,44 @@
             btnClear.UseVisualStyleBackColor = true;
             btnClear.Click += btnClear_Click;
             // 
+            // pictureBoxAdd
+            // 
+            pictureBoxAdd.Image = (Image)resources.GetObject("pictureBoxAdd.Image");
+            pictureBoxAdd.Location = new Point(250, 270);
+            pictureBoxAdd.Name = "pictureBoxAdd";
+            pictureBoxAdd.Size = new Size(25, 25);
+            pictureBoxAdd.TabIndex = 33;
+            pictureBoxAdd.TabStop = false;
+            pictureBoxAdd.Click += pictureBoxAdd_Click;
+            // 
+            // pictureBoxSubstract
+            // 
+            pictureBoxSubstract.Image = (Image)resources.GetObject("pictureBoxSubstract.Image");
+            pictureBoxSubstract.Location = new Point(250, 314);
+            pictureBoxSubstract.Name = "pictureBoxSubstract";
+            pictureBoxSubstract.Size = new Size(25, 25);
+            pictureBoxSubstract.TabIndex = 34;
+            pictureBoxSubstract.TabStop = false;
+            pictureBoxSubstract.Click += pictureBoxSubstract_Click;
+            // 
+            // pictureBoxPointProduct
+            // 
+            pictureBoxPointProduct.Image = (Image)resources.GetObject("pictureBoxPointProduct.Image");
+            pictureBoxPointProduct.Location = new Point(250, 360);
+            pictureBoxPointProduct.Name = "pictureBoxPointProduct";
+            pictureBoxPointProduct.Size = new Size(25, 25);
+            pictureBoxPointProduct.TabIndex = 35;
+            pictureBoxPointProduct.TabStop = false;
+            pictureBoxPointProduct.Click += pictureBoxPointProduct_Click;
+            // 
             // Form1
             // 
             AutoScaleDimensions = new SizeF(7F, 15F);
             AutoScaleMode = AutoScaleMode.Font;
             ClientSize = new Size(949, 450);
+            Controls.Add(pictureBoxPointProduct);
+            Controls.Add(pictureBoxSubstract);
+            Controls.Add(pictureBoxAdd);
             Controls.Add(btnClear);
             Controls.Add(label17);
             Controls.Add(txtPointProduct);
@@ -297,6 +339,9 @@
             Name = "Form1";
             Text = "Form1";
             ((System.ComponentModel.ISupportInitialize)error1).EndInit();
+            ((System.ComponentModel.ISupportInitialize)pictureBoxAdd).EndInit();
+            ((System.ComponentModel.ISupportInitialize)pictureBoxSubstract).EndInit();
+            ((System.ComponentModel.ISupportInitialize)pictureBoxPointProduct).EndInit();
             ResumeLayout(false);
             PerformLayout();
         }
@@ -330,5 +375,8 @@
         private Button btnAdd;
         private Label label17;
         private Button btnClear;
+        private PictureBox pictureBoxAdd;
+        private PictureBox pictureBoxPointProduct;
+        private PictureBox pictureBoxSubstract;
     }
 }
