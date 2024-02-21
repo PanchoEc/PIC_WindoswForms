@@ -337,7 +337,7 @@
             Controls.Add(label2);
             Controls.Add(label1);
             Name = "Form1";
-            Text = "Form1";
+            Text = "Operaciones con vectores";
             ((System.ComponentModel.ISupportInitialize)error1).EndInit();
             ((System.ComponentModel.ISupportInitialize)pictureBoxAdd).EndInit();
             ((System.ComponentModel.ISupportInitialize)pictureBoxSubstract).EndInit();

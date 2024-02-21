@@ -86,7 +86,7 @@ namespace Vectores.Desktop
              + ", " + Convert.ToString(Math.Round((vectorA.Z - vectorB.Z), 3)) + ")";
 
             txtPointProduct.Text = "(" + Convert.ToString(Math.Round((vectorA.X * vectorB.X), 3)) + ", " + Convert.ToString(Math.Round((vectorA.Y * vectorB.Y), 3))
-             + ", " + Convert.ToString(Math.Round((vectorA.Z * vectorB.Z), 3)) + ")";
+             + ", " + Convert.ToString(Math.Round((vectorA.Z * vectorB.Z), 3)) + ") = " + (Math.Round((vectorA.X * vectorB.X), 3) + Math.Round((vectorA.Y * vectorB.Y), 3) + Math.Round((vectorA.Z * vectorB.Z), 3));
         }
 
         private void btnClear_Click(object sender, EventArgs e)
@@ -114,7 +114,7 @@ namespace Vectores.Desktop
 
         private void pictureBoxPointProduct_Click(object sender, EventArgs e)
         {
-            MessageBox.Show("A * B = (xa * xb, ya * yb, za * zb)");
+            MessageBox.Show("A * B = (xa * xb + ya * yb + za * zb)");
         }
     }
 }
