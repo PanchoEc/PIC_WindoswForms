@@ -10,5 +10,5 @@
 
 # Producto Punto (o Producto Escalar) de vectores:
 
-#El producto punto, también conocido como producto escalar de dos vectores es una operación que resulta en un escalar y se calcula multiplicando las componentes correspondientes de los vectores y sumando los resultados. 
+# El producto punto, también conocido como producto escalar de dos vectores es una operación que resulta en un escalar y se calcula multiplicando las componentes correspondientes de los vectores y sumando los resultados. 
 
